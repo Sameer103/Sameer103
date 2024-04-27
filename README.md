@@ -17,8 +17,8 @@
 - 👯 I’m looking to collaborate on Hackathons, Startup Ideas, Freelance work and any new opportunity in the ML workspace
 - 🤔 I’m looking for help with Web Development and Cloud Computing
 
-***Connect with me!***
-[My_Portflio](https://ekka.me/sameer103)
+
+[Connect](https://ekka.me/sameer103) *** with me!***
 - 💬 Discussing AI or technology
 - 📫 Working on a project together
 - ⚡ Pitching an idea
