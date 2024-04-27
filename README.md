@@ -18,7 +18,8 @@
 - 🤔 I’m looking for help with Web Development and Cloud Computing
 
 
-[Connect](https://ekka.me/sameer103) *** with me!***
+[Connect](https://ekka.me/sameer103) 
+***with me!***
 - 💬 Discussing AI or technology
 - 📫 Working on a project together
 - ⚡ Pitching an idea
