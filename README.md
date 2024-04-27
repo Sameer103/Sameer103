@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-
+[![Sameer103's GitHub | Stats](https://stats.quine.sh/Sameer103/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sameer103)
 **Sameer103/Sameer103** 
-![Screenshot 2024-04-27 105600](https://github.com/Sameer103/Sameer103/assets/79912125/4c549a97-2969-48e0-95e9-d75329bc441b)
 *I'm Sameer 🙋‍♂️, a recent graduate with a passion for Artificial Intelligence (AI) 🤖 and building impactful products 🎁 and apps 🐵. I'm actively learning and developing skills in AI, particularly in areas like Machine Learning, Deep Learning and Computer Vision 🤳.
 And this is my ✨`README.md` ✨ repository to know me better.*
 
@@ -19,6 +18,4 @@ And this is my ✨`README.md` ✨ repository to know me better.*
 - 💬 Discussing AI or technology
 - 📫 Working on a project together
 - ⚡ Pitching an idea
-
-
-- [![Sameer103's GitHub | Stats](https://stats.quine.sh/Sameer103/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sameer103)
+  [My_Portflio](https://ekka.me/sameer103)
