@@ -4,8 +4,9 @@
 
 
 
-*I'm Sameer 🙋‍♂️, a recent graduate with a passion for Artificial Intelligence (AI) 🤖 and building impactful products 🎁 and apps 🐵. I'm actively learning and developing skills in AI, particularly in areas like Machine Learning, Deep Learning and Computer Vision 🤳.
-And this is my ✨`README.md` ✨ repository to know me better.*
+*I'm Sameer 🙋‍♂️, a recent graduate with a passion for Artificial Intelligence (AI) 🤖 and building impactful products 🎁 and apps 🐵. I'm actively learning and developing skills in AI, particularly in areas like Machine Learning, Deep Learning and Computer Vision 🤳.*
+
+*And this is my ✨`README.md` ✨ repository to know me better.*
 
 
 ***What you'll find here:***
@@ -17,7 +18,8 @@ And this is my ✨`README.md` ✨ repository to know me better.*
 - 🤔 I’m looking for help with Web Development and Cloud Computing
 
 ***Connect with me!***
+[My_Portflio](https://ekka.me/sameer103)
 - 💬 Discussing AI or technology
 - 📫 Working on a project together
 - ⚡ Pitching an idea
-[My_Portflio](https://ekka.me/sameer103)
+
