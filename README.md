@@ -4,7 +4,7 @@
 
 
 
-*I'm Sameer 🙋‍♂️, a recent graduate with a passion for Artificial Intelligence (AI) 🤖 and building impactful products 🎁 and apps 🐵. I'm actively learning and developing skills in AI, particularly in areas like Machine Learning, Deep Learning and Computer Vision 🤳.*
+*I'm Sameer 🙋‍♂️, a recent graduate with a passion for Artificial Intelligence (AI) 🤖 / Data Science, and building impactful products 🎁 and apps 🐵. I'm actively learning and developing skills in AI, particularly in areas like Machine Learning, Deep Learning and Computer Vision 🤳.*
 
 *And this is my ✨`README.md` ✨ repository to know me better.*
 
