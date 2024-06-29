@@ -1,10 +1,7 @@
 ### Hi there 👋
-<p align="center">
   
 [![Sameer103's GitHub | Stats](https://stats.quine.sh/Sameer103/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sameer103)
-
-</p>
-
+---
 
 *I'm Sameer 🙋‍♂️, a recent graduate with a passion for Artificial Intelligence (AI) 🤖 / Data Science, and building impactful products 🎁 and apps 🐵. I'm actively learning and developing skills in AI, particularly in areas like Machine Learning, Deep Learning and Computer Vision 🤳.*
 
