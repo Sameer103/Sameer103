@@ -28,7 +28,7 @@
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sameer103&theme=highcontrast" alt="GitHub Streak" /></a>
 </p>  
----
+
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Sameer103&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer103&size_weight=0.1&count_weight=0.33&layout=compact&theme=vision-friendly-dark">
@@ -37,7 +37,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sameer103&style=for-the-badge&color=green" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Sameer103&style=for-the-badge&color=blue" alt=""/>
 </div>
 
 
