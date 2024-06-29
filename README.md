@@ -26,7 +26,8 @@
 
 
 
-  
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sameer103&theme=highcontrast" alt="GitHub Streak" /></a>
+
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Sameer103theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
